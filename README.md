@@ -11,6 +11,8 @@
 
 ## Overview
 PyTorch implementation of the paper "Learning Geometric Representations of Objects via Interaction"
+* [Paper](paper.pdf)
+* [Appendix](appendix.pdf)
 
 ## Installation and Data
 Tested with PyTorch version 11.7
