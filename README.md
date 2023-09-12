@@ -65,7 +65,7 @@ All the above experiments can be run using a different model:
 * `--model "haptic"`: corresponds to our proposed model described in the paper
 * `--model "transporter"`: corresponds to the key-point extractor described in section 5.1 of the paper (first bullet point)
 * `--model "vae"`: corresponds to the variational autoencoder described in section 5.1 of the paper (second bullet point)
-* `--model "end-to-end"`: tcorresponds to a convolutional network trained with the RL loss only. This option can be chosen for the "rl" experiment only
+* `--model "end-to-end"`: corresponds to a convolutional network trained with the RL loss only. This option can be chosen for the "rl" experiment only
 
 the Control Task experiment described in section 5.4 is not runnable as it would require the executables for Unity, the code is however provided.
 
